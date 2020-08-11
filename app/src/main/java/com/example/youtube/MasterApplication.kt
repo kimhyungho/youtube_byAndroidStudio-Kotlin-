@@ -42,7 +42,7 @@ class MasterApplication : Application() {
             .build()
 
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://mellowcode.org/")
+            .baseUrl("http://")
             .addConverterFactory(GsonConverterFactory.create())
             .client(client)         // 클라이언트 = 스테토 ( 네트워크 확인 )
             .build()
