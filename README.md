@@ -1,7 +1,7 @@
 # youtube_byAndroidStudio-Kotlin-
 
 # Running Screen
-<dev>
-<img width=200 src="hyungtube_image/1.JPG">
-<img width=200 src="hyungtube_image/2.JPG">
-<dev>
+<div>
+<img whdth = "50" src = "hyungtube_image/1.JPG">
+<img whdth = "50" src = "hyungtube_image/2.JPG">
+<div>
