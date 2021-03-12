@@ -18,9 +18,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#used-libray">Acknowledgements</a></li>
-    <li><a href="#app-image">Contact</a></li>
+    <li><a href="#used-libray">Used Libray</a></li>
+    <li><a href="#app-image">App Image</a></li>
   </ol>
 </details>
 
@@ -42,25 +41,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-
+<!-- USED LIBRARY -->
 ## Used Library
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -74,4 +55,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
+<!-- APP IMAGE -->
 ## App Image
