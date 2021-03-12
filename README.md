@@ -18,7 +18,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#used-libray">Used Libray</a></li>
+    <li><a href="#used-library">Used Library</a></li>
     <li><a href="#app-image">App Image</a></li>
   </ol>
 </details>
