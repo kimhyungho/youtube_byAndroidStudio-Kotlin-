@@ -28,32 +28,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+FastCampus 강의를 듣고 따라 코딩한 프로젝트입니다.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+서버에서 API로 동영상을 받아왔습니다. 동영상 활용 연습에 도움이 됬습니다.
 
 <!-- USED LIBRARY -->
 ## Used Library
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Stheto](http://facebook.github.io/stetho/)
+* [Retrofit2](https://square.github.io/retrofit/)
+* [Glide](https://github.com/bumptech/glide)
+* [Gson](https://github.com/google/gson)
+
 
 <!-- APP IMAGE -->
 ## App Image
+<p>
+  <img src="https://github.com/kimhyungho/ANDROID-FastCampusYoutubeClone/blob/master/hyungtube_image/1.JPG" alt="APP_IMAGE1" width="200"/>
+  <img src="https://github.com/kimhyungho/ANDROID-FastCampusYoutubeClone/blob/master/hyungtube_image/2.JPG" alt="APP_IMAGE2" width="200"/>
+</p>
